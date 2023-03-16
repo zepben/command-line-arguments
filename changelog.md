@@ -1,6 +1,6 @@
 # Command Line Arguments changelog
 
-## [2.0.0] - UNRELEASED
+## [2.0.0] - 2023-03-16
 
 ### Breaking Changes
 
