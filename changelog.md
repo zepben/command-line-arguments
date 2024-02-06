@@ -1,20 +1,26 @@
 # Command Line Arguments changelog
+
 ## [2.1.0] - UNRELEASED
+
 ### Breaking Changes
-* None.
+
+* Updated the super pom with potentially breaking transitive dependencies.
 
 ### New Features
+
 * None.
 
 ### Enhancements
+
 * None.
 
 ### Fixes
+
 * None.
 
 ### Notes
-* None.
 
+* None.
 
 ## [2.0.0] - 2023-03-16
 
