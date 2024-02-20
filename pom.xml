@@ -10,7 +10,7 @@
 
     <groupId>com.zepben</groupId>
     <artifactId>command-line-arguments</artifactId>
-    <version>2.1.0-SNAPSHOT2</version>
+    <version>2.1.0-SNAPSHOT3</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Command line arguments for EWB and related services</description>
