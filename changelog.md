@@ -12,7 +12,7 @@
 
 ### Enhancements
 
-* None.
+* Updated the `CmdArgsBase.parse` function to take an `Array<out String>`, which allows passing of a Kotlin `varargs args: String` parameter directly.
 
 ### Fixes
 
