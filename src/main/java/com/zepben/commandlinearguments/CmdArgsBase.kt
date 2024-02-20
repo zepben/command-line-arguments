@@ -29,7 +29,7 @@ abstract class CmdArgsBase {
      *
      * @param args The command line args to be parsed
      */
-    fun parse(args: Array<String>) {
+    fun parse(args: Array<out String>) {
         cmd = DefaultParser().parse(options, args.clone())
 
         isHelpRequested = hasArg("h")
