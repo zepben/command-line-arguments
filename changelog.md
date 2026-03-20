@@ -13,7 +13,7 @@
 * None.
 
 ### Notes
-* None.
+* Updated Kotlin from `1.9.10` -> `1.9.24`.
 
 
 ## [2.1.0] - 2024-05-16
