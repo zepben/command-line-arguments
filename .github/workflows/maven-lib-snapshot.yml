@@ -5,13 +5,10 @@ on:
     branches:
       - main
       - LTS/*
+      - hotfix/*
   workflow_dispatch:
 
 jobs:
-  run:
+  snapshot:
     uses: zepben/.github/.github/workflows/maven-lib-snapshot.yml@main
-    with:
-      private: false
-      product-key: command-line-arguments
-      product-repo: zepben/command-line-arguments
     secrets: inherit
