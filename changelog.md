@@ -1,4 +1,20 @@
 # Command Line Arguments changelog
+## [2.3.0] - UNRELEASED
+### Breaking Changes
+* None.
+
+### New Features
+* None.
+
+### Enhancements
+* None.
+
+### Fixes
+* None.
+
+### Notes
+* None.
+
 ## [2.2.0] - 2026-03-20
 ### Breaking Changes
 * None.
