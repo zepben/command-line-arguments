@@ -1,7 +1,7 @@
 # Command Line Arguments changelog
 ## [2.3.0] - UNRELEASED
 ### Breaking Changes
-* None.
+* Minimum required JVM version for compilation is 17
 
 ### New Features
 * None.
@@ -13,7 +13,7 @@
 * None.
 
 ### Notes
-* None.
+* Updated project to Kotlin `2.3.20`
 
 ## [2.2.0] - 2026-03-20
 ### Breaking Changes
