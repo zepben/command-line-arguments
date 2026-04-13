@@ -1,5 +1,5 @@
 # Command Line Arguments changelog
-## [2.3.0] - UNRELEASED
+## [2.3.0] - 2026-04-13
 ### Breaking Changes
 * Minimum required JVM version for compilation is 17
 
